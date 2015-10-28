@@ -1,15 +1,15 @@
 README.MD
 
-INFM 600 | THIS DATASET IS CREATED FOR THE INFM 600 INFORMATION ORGANIZATION ASSIGNMENT
-VERSION: ENGLISH | 1.0 (OCT 2015)
-DATA STATISTICS:
-TOTAL 	N=2,300
-SAMPLE: LANDLINE AND CELL PHONE
-	LANDLINE: 	N=1500
-	CELL PHONE: N=800
-FIELD DATES: 11/23-12/21, 2010
+INFM 600 | This Dataset is created for the INFM 600 Information Organization Assignment
+Version: English | 1.0 (OCT 2015)
+Data Statistics:
+Total	N=2,300
+Sample: Landline and Cell Phones
+	Landline:   N=1500
+	Cell Phone: N=800
+Field Dates: 11/23-12/21, 2010
 
-FOCAL DATA FILE: RETRIEVED FROM PEW INTERNET DATASETS
+FOCAL DATA FILE: Retrieved from Pew Internet Datasets
 
 The Pew Research Center's Internet & American Life Project. (2010). December 2010 - Social Side of the Internet [Data Set]. Retrieved from http://www.pewinternet.org/datasets/december-2010-social-side-of-the-internet/
 
