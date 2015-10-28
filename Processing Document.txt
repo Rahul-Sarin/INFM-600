@@ -1,0 +1,17 @@
+Processing Document
+
+FOCAL DATA FILE: RETRIEVED FROM PEW INTERNET DATASETS
+The Pew Research Center's Internet & American Life Project. (2010). December 2010 - Social Side of the Internet [Data Set]. Retrieved from http://www.pewinternet.org/datasets/december-2010-social-side-of-the-internet/
+
+NEW DATA SET: Rahul Sarin. (2015). Impact of Internet on social groups. Unpublished Raw Data. Available from
+https://github.com/Rahul-Sarin/INFM-600.git
+
+The steps to formulate the new dataset are as follows:
+
+a). From the original dataset, copy all columns from psraid to Q18b and paste into a new excel sheet. 
+
+b). Next, copy columns from Q24a to Q26 and add the columns to the new excel sheet. 
+
+c). Finally, add the Age column to the new sheet to obtain the derived dataset. 
+
+Note: Only the above-mentioned columns have been persisted because after careful examination of each survey questions, it was concluded that only these questions were relevant to the research; while the omitted columns did not contain content that would lend any effective contribution to the research questions.
